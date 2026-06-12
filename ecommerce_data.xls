@@ -1,0 +1,1006 @@
+OrderID,CustomerID,Category,Price,Quantity,OrderDate,City,PaymentMethod
+1001,5659,Beauty & Personal Care,19924.67,2,2026-04-06,,Cash on Delivery
+1002,5671,Fashion,11233.2,1,2026-05-27,Hyderabad,Credit Card
+1003,5475,Fashion,45703.5,2,2026-04-16,Chennai,Cash on Delivery
+1004,5094,Fashion,10349.4,5,2026-03-27,Chennai,UPI
+1005,5036,Electronics,4624.54,2,2026-05-27,Hyderabad,Cash on Delivery
+1006,5988,Electronics,10700.21,3,2026-04-13,Chennai,Credit Card
+1007,5335,Home & Kitchen,26835.92,4,2026-03-20,Chennai,Debit Card
+1008,5067,Home & Kitchen,36931.16,5,2026-04-23,Chennai,Debit Card
+1009,5813,Home & Kitchen,33288.05,3,2026-05-18,Chennai,Cash on Delivery
+1010,5167,Fashion,6768.35,1,2026-05-24,Chennai,Debit Card
+1011,5698,Electronics,16987.92,1,2026-05-31,Bangalore,Credit Card
+1012,5386,Electronics,45797.65,2,2026-05-22,Delhi,Credit Card
+1013,5011,Electronics,3810.76,5,2026-05-06,Bangalore,Cash on Delivery
+1014,5794,Fashion,3839.92,2,2026-05-07,Bangalore,Credit Card
+1015,5591,Electronics,32990.76,2,2026-06-09,Bangalore,Debit Card
+1016,5346,Fashion,48992.26,3,2026-03-28,Mumbai,Debit Card
+1017,5224,Beauty & Personal Care,683.85,2,2026-05-28,Pune,UPI
+1018,5777,Fashion,39005.39,4,2026-04-14,Hyderabad,UPI
+1019,5487,Home & Kitchen,23391.29,5,2026-05-23,Mumbai,UPI
+1020,5820,Electronics,29403.06,2,2026-05-24,Chennai,Credit Card
+1021,5802,Fashion,26513.17,3,2026-06-10,Delhi,Debit Card
+1022,5063,Home & Kitchen,49515.16,5,2026-04-03,,Debit Card
+1023,5995,Home & Kitchen,15895.21,5,2026-05-25,Mumbai,Cash on Delivery
+1024,5052,Fashion,14754.87,2,2026-05-29,Bangalore,UPI
+1025,5980,Beauty & Personal Care,43533.07,4,2026-03-16,Hyderabad,Cash on Delivery
+1026,5397,Home & Kitchen,28160.75,5,2026-04-06,Bangalore,UPI
+1027,5794,Fashion,33419.45,3,2026-04-26,Pune,Credit Card
+1028,5902,Fashion,20146.81,3,2026-03-29,Delhi,UPI
+1029,5751,Fashion,16777.09,5,2026-05-16,Pune,Credit Card
+1030,5935,Fashion,20142.34,2,2026-05-23,Delhi,Debit Card
+1031,5922,Home & Kitchen,36337.83,4,2026-04-15,Pune,UPI
+1032,5528,Fashion,49945.05,5,2026-05-21,Chennai,Debit Card
+1033,5548,Beauty & Personal Care,18024.09,5,2026-04-11,Pune,Cash on Delivery
+1034,5734,Fashion,30513.46,3,2026-05-19,Bangalore,Credit Card
+1035,5650,Electronics,30522.85,1,2026-05-21,Delhi,UPI
+1036,5929,Home & Kitchen,26693.02,3,2026-03-31,Hyderabad,UPI
+1037,5252,Fashion,28017.6,5,2026-03-13,Mumbai,Debit Card
+1038,5681,Beauty & Personal Care,36789.72,2,2026-04-08,Bangalore,Cash on Delivery
+1039,5197,Electronics,24259.49,5,2026-04-12,Chennai,Credit Card
+1040,5388,Home & Kitchen,36345.28,4,2026-05-07,Bangalore,UPI
+1041,5737,Fashion,46881.1,4,2026-06-07,Chennai,Debit Card
+1042,5681,Home & Kitchen,4824.64,3,2026-05-02,Pune,UPI
+1043,5781,Electronics,4234.78,4,2026-04-25,Hyderabad,UPI
+1044,5114,Fashion,36242.55,5,2026-05-05,Pune,Credit Card
+1045,5149,Fashion,37765.87,4,2026-05-26,Mumbai,Credit Card
+1046,5373,Beauty & Personal Care,12564.71,4,2026-04-15,Chennai,Cash on Delivery
+1047,5562,Fashion,33584.58,5,2026-04-14,Hyderabad,Credit Card
+1048,5272,Electronics,29922.58,4,2026-05-30,Chennai,UPI
+1049,5722,Home & Kitchen,2712.39,1,2026-05-01,Pune,UPI
+1050,5884,Home & Kitchen,3000.33,4,2026-03-28,Chennai,Debit Card
+1051,5600,Home & Kitchen,21284.28,4,2026-05-10,Mumbai,Debit Card
+1052,5496,Beauty & Personal Care,2386.28,1,2026-04-17,Bangalore,UPI
+1053,5181,Home & Kitchen,13459.51,3,2026-05-23,Delhi,Credit Card
+1054,5568,Home & Kitchen,18152.68,5,2026-06-10,Mumbai,UPI
+1055,5132,Beauty & Personal Care,18157.65,2,2026-05-23,Hyderabad,Credit Card
+1056,5032,Electronics,240.65,2,2026-05-11,Bangalore,Credit Card
+1057,5020,Electronics,12646.6,2,2026-05-31,Hyderabad,Credit Card
+1058,5460,Home & Kitchen,3085.86,1,2026-03-27,Mumbai,UPI
+1059,5157,Beauty & Personal Care,45281.19,4,2026-03-25,Delhi,Credit Card
+1060,5553,Home & Kitchen,39243.88,5,2026-04-29,Bangalore,Cash on Delivery
+1061,5106,Fashion,33362.65,3,2026-06-10,Chennai,Cash on Delivery
+1062,5556,Fashion,26218.75,4,2026-03-12,Hyderabad,UPI
+1063,5265,Fashion,10264.01,3,2026-04-10,Hyderabad,Cash on Delivery
+1064,5955,Fashion,26959.68,5,2026-03-23,Hyderabad,Debit Card
+1065,5976,Fashion,27963.52,4,2026-05-27,Mumbai,Debit Card
+1066,5939,Beauty & Personal Care,45640.18,3,2026-05-15,Bangalore,Debit Card
+1067,5148,Electronics,27482.58,5,2026-04-04,Mumbai,Credit Card
+1068,5213,Beauty & Personal Care,23583.58,5,2026-03-24,Pune,Cash on Delivery
+1069,5861,Home & Kitchen,25077.51,5,2026-06-09,Bangalore,Debit Card
+1070,5508,Electronics,4876.78,3,2026-04-27,Chennai,Cash on Delivery
+1071,5963,Beauty & Personal Care,37357.96,1,2026-04-27,Delhi,Cash on Delivery
+1072,5497,Beauty & Personal Care,41842.65,5,2026-05-24,Chennai,Cash on Delivery
+1073,5457,Home & Kitchen,47214.94,1,2026-06-01,Hyderabad,Cash on Delivery
+1074,5373,Home & Kitchen,41600.0,5,2026-05-12,Mumbai,Cash on Delivery
+1075,5523,Beauty & Personal Care,13135.57,5,2026-05-07,Delhi,Credit Card
+1076,5307,Beauty & Personal Care,45917.32,3,2026-05-21,Delhi,Cash on Delivery
+1077,5567,Electronics,15042.0,3,2026-04-24,Hyderabad,Debit Card
+1078,5911,Fashion,153.91,3,2026-05-17,Hyderabad,Cash on Delivery
+1079,5881,Beauty & Personal Care,37663.2,5,2026-03-30,Hyderabad,Credit Card
+1080,5107,Fashion,30573.26,5,2026-04-13,Chennai,UPI
+1081,5211,Electronics,34155.67,1,2026-04-18,Delhi,Cash on Delivery
+1082,5489,Electronics,10549.52,3,2026-05-01,,UPI
+1083,5697,Fashion,19224.87,3,2026-03-19,Delhi,UPI
+1084,5477,Electronics,16056.5,3,2026-04-20,Chennai,UPI
+1085,5754,Fashion,17527.68,4,2026-05-07,Mumbai,Cash on Delivery
+1086,5018,Beauty & Personal Care,42324.1,2,2026-05-20,Bangalore,Cash on Delivery
+1087,5819,Electronics,36362.77,5,2026-03-28,Pune,Debit Card
+1088,5048,Home & Kitchen,26958.11,3,2026-05-29,,Cash on Delivery
+1089,5739,Beauty & Personal Care,26850.92,5,2026-06-01,Mumbai,Credit Card
+1090,5904,Home & Kitchen,329.6,5,2026-05-05,Chennai,Credit Card
+1091,5988,Beauty & Personal Care,15350.44,2,2026-06-06,Delhi,Cash on Delivery
+1092,5879,Home & Kitchen,31024.5,1,2026-04-06,Delhi,Cash on Delivery
+1093,5069,Beauty & Personal Care,48073.0,5,2026-05-09,Delhi,UPI
+1094,5326,Electronics,3058.34,2,2026-03-27,Hyderabad,UPI
+1095,5645,Electronics,9426.75,5,2026-04-08,Hyderabad,Debit Card
+1096,5221,Beauty & Personal Care,1238.07,2,2026-04-25,Bangalore,Cash on Delivery
+1097,5263,Beauty & Personal Care,14061.38,1,2026-05-12,Pune,Debit Card
+1098,5767,Electronics,23233.15,1,2026-04-20,Delhi,Debit Card
+1099,5875,Beauty & Personal Care,45747.72,4,2026-03-25,Hyderabad,Credit Card
+1100,5926,Fashion,8942.76,1,2026-05-10,Mumbai,UPI
+1101,5493,Fashion,40934.32,3,2026-04-02,Chennai,UPI
+1102,5535,Fashion,6211.0,1,2026-04-11,Mumbai,UPI
+1103,5985,Electronics,47083.55,2,2026-04-10,Chennai,Credit Card
+1104,5729,Electronics,9756.46,4,2026-04-14,Hyderabad,UPI
+1105,5046,Electronics,5968.76,4,2026-03-29,Delhi,Credit Card
+1106,5257,Home & Kitchen,8717.3,3,2026-04-06,Bangalore,Cash on Delivery
+1107,5721,Home & Kitchen,48967.19,3,2026-05-30,Pune,Debit Card
+1108,5107,Electronics,11668.24,2,2026-04-30,Bangalore,UPI
+1109,5013,Electronics,41044.99,4,2026-03-17,Bangalore,Credit Card
+1110,5790,Electronics,30656.1,2,2026-03-25,Hyderabad,Debit Card
+1111,5223,Electronics,49931.12,5,2026-03-17,Bangalore,Cash on Delivery
+1112,5255,Electronics,33141.39,4,2026-06-04,Bangalore,UPI
+1113,5524,Home & Kitchen,446.13,3,2026-04-24,Pune,Cash on Delivery
+1114,5675,Electronics,14822.26,1,2026-05-23,Delhi,UPI
+1115,5440,Beauty & Personal Care,24062.46,4,2026-04-01,,Debit Card
+1116,5695,Fashion,47611.99,5,2026-04-22,Hyderabad,Cash on Delivery
+1117,5386,Home & Kitchen,40250.04,1,2026-05-20,Delhi,UPI
+1118,5421,Electronics,39378.57,2,2026-05-16,,Debit Card
+1119,5198,Fashion,12981.05,2,2026-03-14,Delhi,UPI
+1120,5217,Beauty & Personal Care,21704.97,3,2026-04-04,Hyderabad,Cash on Delivery
+1121,5351,Electronics,20872.65,5,2026-06-06,,Cash on Delivery
+1122,5646,Electronics,17688.33,1,2026-05-15,Hyderabad,Debit Card
+1123,5025,Beauty & Personal Care,16730.95,5,2026-04-21,Delhi,Debit Card
+1124,5675,Electronics,22732.58,3,2026-06-01,Mumbai,Credit Card
+1125,5831,Electronics,3979.98,2,2026-05-26,Mumbai,UPI
+1126,5603,Fashion,26756.6,1,2026-03-12,Bangalore,Cash on Delivery
+1127,5859,Home & Kitchen,28057.4,2,2026-05-01,Mumbai,Cash on Delivery
+1128,5596,Electronics,17631.99,2,2026-04-20,Bangalore,Debit Card
+1129,5876,Electronics,34880.86,5,2026-05-20,Hyderabad,Cash on Delivery
+1130,5704,Home & Kitchen,8389.74,5,2026-03-31,Pune,Credit Card
+1131,5672,Electronics,4968.84,1,2026-04-23,Chennai,Cash on Delivery
+1132,5024,Beauty & Personal Care,7967.27,5,2026-03-22,Chennai,Credit Card
+1133,5863,Beauty & Personal Care,17757.01,2,2026-04-13,Hyderabad,Cash on Delivery
+1134,5382,Home & Kitchen,30412.74,4,2026-03-28,Delhi,Debit Card
+1135,5479,Fashion,45228.5,3,2026-03-12,Delhi,Debit Card
+1136,5870,Home & Kitchen,9785.39,3,2026-04-21,,Cash on Delivery
+1137,5137,Electronics,14905.75,2,2026-03-13,Pune,Cash on Delivery
+1138,5136,Beauty & Personal Care,22260.78,3,2026-04-12,Chennai,Cash on Delivery
+1139,5443,Beauty & Personal Care,4047.85,1,2026-05-29,Hyderabad,Credit Card
+1140,5280,Fashion,11958.73,1,2026-04-26,Delhi,Cash on Delivery
+1141,5728,Beauty & Personal Care,48597.13,4,2026-05-07,Delhi,Credit Card
+1142,5353,Home & Kitchen,25983.1,4,2026-05-03,Delhi,Debit Card
+1143,5098,Fashion,39379.13,5,2026-04-07,Hyderabad,Cash on Delivery
+1144,5594,Beauty & Personal Care,49647.82,1,2026-05-17,Pune,Credit Card
+1145,5919,Fashion,29316.01,2,2026-05-06,Bangalore,UPI
+1146,5591,Home & Kitchen,4820.91,3,2026-03-23,Chennai,UPI
+1147,5257,Electronics,22979.6,5,2026-04-16,Mumbai,Debit Card
+1148,5396,Home & Kitchen,36063.26,3,2026-03-28,Bangalore,UPI
+1149,5215,Home & Kitchen,32661.05,4,2026-04-26,Delhi,Debit Card
+1150,5021,Electronics,38999.2,2,2026-04-01,Pune,Cash on Delivery
+1151,5158,Home & Kitchen,38018.97,5,2026-06-05,Mumbai,Credit Card
+1152,5995,Electronics,28111.77,5,2026-03-23,Chennai,Cash on Delivery
+1153,5581,Fashion,35686.97,5,2026-04-26,,UPI
+1154,5849,Fashion,24734.5,2,2026-05-23,Bangalore,Cash on Delivery
+1155,5596,Fashion,29789.64,5,2026-06-10,Delhi,Cash on Delivery
+1156,5838,Electronics,46090.91,4,2026-04-22,Hyderabad,Credit Card
+1157,5844,Electronics,46313.18,1,2026-05-11,Mumbai,Cash on Delivery
+1158,5722,Fashion,45643.44,2,2026-03-22,Hyderabad,Cash on Delivery
+1159,5081,Fashion,2096.65,3,2026-06-07,Pune,UPI
+1160,5513,Electronics,28773.51,3,2026-04-08,Mumbai,Debit Card
+1161,5913,Home & Kitchen,49497.02,5,2026-04-16,Delhi,Credit Card
+1162,5652,Home & Kitchen,38278.25,4,2026-04-01,Mumbai,UPI
+1163,5441,Fashion,27145.04,3,2026-03-30,Chennai,UPI
+1164,5217,Beauty & Personal Care,4992.8,3,2026-05-23,Pune,Debit Card
+1165,5464,Beauty & Personal Care,47711.58,3,2026-04-03,Mumbai,UPI
+1166,5429,Fashion,18546.68,3,2026-05-18,Bangalore,Cash on Delivery
+1167,5895,Fashion,21480.97,4,2026-04-20,,Debit Card
+1168,5354,Home & Kitchen,21806.96,5,2026-05-20,Chennai,Credit Card
+1169,5742,Beauty & Personal Care,43846.44,3,2026-06-09,Delhi,Cash on Delivery
+1170,5206,Electronics,20977.11,5,2026-03-13,Chennai,UPI
+1171,5347,Electronics,10760.81,1,2026-05-16,Pune,Credit Card
+1172,5868,Fashion,36332.83,5,2026-04-19,Delhi,Debit Card
+1173,5167,Home & Kitchen,38508.72,3,2026-04-26,Mumbai,UPI
+1174,5979,Home & Kitchen,35590.15,1,2026-03-21,Bangalore,UPI
+1175,5176,Electronics,2544.93,1,2026-05-20,Hyderabad,Debit Card
+1176,5763,Beauty & Personal Care,4952.67,3,2026-03-12,Chennai,Cash on Delivery
+1177,5491,Electronics,406.46,4,2026-03-21,Bangalore,Cash on Delivery
+1178,5847,Home & Kitchen,22903.87,2,2026-03-18,Mumbai,UPI
+1179,5261,Home & Kitchen,6790.78,5,2026-03-16,Chennai,Credit Card
+1180,5167,Electronics,49214.81,1,2026-04-14,Pune,Debit Card
+1181,5745,Fashion,12309.04,3,2026-04-13,Hyderabad,UPI
+1182,5355,Beauty & Personal Care,32583.14,4,2026-05-04,Bangalore,UPI
+1183,5180,Electronics,37492.5,1,2026-05-07,Mumbai,UPI
+1184,5385,Fashion,32817.82,4,2026-04-24,Chennai,Cash on Delivery
+1185,5142,Electronics,45711.98,5,2026-06-09,Bangalore,Credit Card
+1186,5625,Beauty & Personal Care,34937.98,5,2026-04-19,Mumbai,Debit Card
+1187,5916,Beauty & Personal Care,1856.94,4,2026-04-16,Chennai,UPI
+1188,5656,Fashion,41638.95,2,2026-04-19,Chennai,Debit Card
+1189,5664,Electronics,6893.34,5,2026-04-03,,Credit Card
+1190,5413,Fashion,14500.31,5,2026-05-18,Mumbai,Debit Card
+1191,5255,Beauty & Personal Care,24068.62,2,2026-04-21,Hyderabad,Credit Card
+1192,5930,Beauty & Personal Care,5200.74,1,2026-05-08,Mumbai,UPI
+1193,5948,Home & Kitchen,12966.91,1,2026-05-15,Delhi,Cash on Delivery
+1194,5641,Beauty & Personal Care,8231.85,2,2026-03-30,Delhi,Debit Card
+1195,5728,Beauty & Personal Care,8096.36,1,2026-04-20,Hyderabad,Credit Card
+1196,5691,Home & Kitchen,10999.39,4,2026-03-16,Bangalore,UPI
+1197,5410,Beauty & Personal Care,42703.65,4,2026-05-04,Mumbai,Credit Card
+1198,5269,Home & Kitchen,43896.18,1,2026-05-19,Bangalore,Cash on Delivery
+1199,5041,Home & Kitchen,30628.2,4,2026-05-18,Chennai,UPI
+1200,5783,Fashion,9461.89,2,2026-04-12,Mumbai,Credit Card
+1201,5944,Beauty & Personal Care,48632.08,2,2026-06-05,Bangalore,Debit Card
+1202,5849,Beauty & Personal Care,4940.99,3,2026-04-08,Pune,UPI
+1203,5256,Beauty & Personal Care,41811.63,3,2026-03-16,Pune,Credit Card
+1204,5134,Fashion,31735.61,2,2026-03-18,Pune,Cash on Delivery
+1205,5580,Beauty & Personal Care,35696.56,2,2026-05-02,Bangalore,Credit Card
+1206,5818,Beauty & Personal Care,17965.2,1,2026-05-16,Bangalore,UPI
+1207,5540,Fashion,38507.19,5,2026-04-21,Delhi,Credit Card
+1208,5997,Electronics,41701.18,4,2026-05-08,,Credit Card
+1209,5885,Home & Kitchen,37489.46,1,2026-04-25,Hyderabad,Cash on Delivery
+1210,5189,Home & Kitchen,21320.07,5,2026-04-10,Mumbai,Debit Card
+1211,5729,Electronics,45720.36,2,2026-03-26,Pune,Cash on Delivery
+1212,5611,Beauty & Personal Care,41242.66,3,2026-05-17,Pune,UPI
+1213,5260,Home & Kitchen,8624.27,5,2026-04-03,Chennai,Credit Card
+1214,5870,Home & Kitchen,2984.3,4,2026-05-06,Bangalore,Credit Card
+1215,5395,Home & Kitchen,32318.31,5,2026-04-19,Pune,Debit Card
+1216,5803,Electronics,46275.11,5,2026-06-01,Pune,UPI
+1217,5406,Beauty & Personal Care,43963.1,1,2026-03-19,Bangalore,UPI
+1218,5996,Fashion,22962.76,5,2026-04-10,Bangalore,Debit Card
+1219,5745,Fashion,24560.92,2,2026-06-01,Chennai,Cash on Delivery
+1220,5299,Electronics,30858.34,1,2026-03-12,Mumbai,UPI
+1221,5173,Fashion,45062.88,3,2026-04-04,Bangalore,UPI
+1222,5607,Beauty & Personal Care,29219.87,4,2026-05-03,Delhi,Credit Card
+1223,5314,Electronics,13926.0,5,2026-05-09,Pune,UPI
+1224,5156,Electronics,31581.16,1,2026-05-04,Bangalore,Credit Card
+1225,5123,Electronics,8229.54,2,2026-05-29,Delhi,UPI
+1226,5657,Home & Kitchen,26255.25,2,2026-05-09,Pune,UPI
+1227,5577,Beauty & Personal Care,27114.62,5,2026-05-07,Hyderabad,Credit Card
+1228,5663,Home & Kitchen,40030.76,2,2026-04-13,Pune,Cash on Delivery
+1229,5072,Home & Kitchen,38651.01,2,2026-04-22,Mumbai,UPI
+1230,5566,Fashion,20445.53,1,2026-04-21,Delhi,UPI
+1231,5841,Fashion,8155.29,2,2026-03-22,Hyderabad,Credit Card
+1232,5033,Fashion,39299.49,2,2026-03-13,Bangalore,Cash on Delivery
+1233,5894,Fashion,14184.14,3,2026-05-29,,Debit Card
+1234,5959,Beauty & Personal Care,49131.76,2,2026-04-04,Mumbai,Credit Card
+1235,5443,Fashion,26566.87,1,2026-05-16,Pune,Debit Card
+1236,5150,Home & Kitchen,21034.91,5,2026-05-14,Hyderabad,Debit Card
+1237,5329,Electronics,48521.76,3,2026-05-11,Delhi,Credit Card
+1238,5159,Home & Kitchen,5995.23,2,2026-06-03,Bangalore,UPI
+1239,5497,Beauty & Personal Care,30610.64,1,2026-04-13,Bangalore,Credit Card
+1240,5965,Fashion,38949.08,5,2026-04-15,Pune,Debit Card
+1241,5109,Home & Kitchen,31822.34,2,2026-06-06,Delhi,Credit Card
+1242,5479,Home & Kitchen,49314.67,3,2026-04-24,Mumbai,Debit Card
+1243,5451,Beauty & Personal Care,18047.95,3,2026-03-26,Delhi,Credit Card
+1244,5480,Beauty & Personal Care,30588.4,4,2026-04-25,Mumbai,Cash on Delivery
+1245,5374,Fashion,40866.09,2,2026-05-18,Bangalore,Debit Card
+1246,5102,Beauty & Personal Care,4423.63,2,2026-03-25,Chennai,Cash on Delivery
+1247,5383,Beauty & Personal Care,12269.1,3,2026-04-24,Mumbai,UPI
+1248,5283,Home & Kitchen,40001.18,1,2026-05-05,Bangalore,Cash on Delivery
+1249,5161,Beauty & Personal Care,13785.92,5,2026-04-29,Pune,UPI
+1250,5393,Beauty & Personal Care,41366.89,3,2026-06-03,Mumbai,Credit Card
+1251,5550,Fashion,29312.9,5,2026-04-24,Hyderabad,Cash on Delivery
+1252,5946,Electronics,3085.98,2,2026-03-12,Delhi,UPI
+1253,5589,Beauty & Personal Care,8480.74,3,2026-05-10,Hyderabad,UPI
+1254,5678,Fashion,31321.48,4,2026-06-09,Pune,Debit Card
+1255,5489,Home & Kitchen,33999.04,5,2026-05-23,Pune,Cash on Delivery
+1256,5800,Fashion,39282.51,3,2026-05-09,Bangalore,UPI
+1257,5616,Fashion,35469.95,1,2026-06-04,Pune,Credit Card
+1258,5064,Beauty & Personal Care,16452.08,1,2026-05-05,Bangalore,UPI
+1259,5886,Electronics,17537.68,5,2026-03-28,Hyderabad,UPI
+1260,5489,Home & Kitchen,23179.09,1,2026-05-27,Bangalore,Debit Card
+1261,5238,Fashion,32296.43,5,2026-05-27,Hyderabad,UPI
+1262,5752,Electronics,2637.84,4,2026-04-10,Hyderabad,Credit Card
+1263,5284,Beauty & Personal Care,22464.66,1,2026-04-19,Hyderabad,Debit Card
+1264,5675,Fashion,192.01,2,2026-06-07,Bangalore,Cash on Delivery
+1265,5018,Fashion,31088.13,4,2026-03-28,Pune,UPI
+1266,5876,Electronics,44261.4,2,2026-06-02,Delhi,Credit Card
+1267,5175,Beauty & Personal Care,27274.89,1,2026-04-17,Chennai,Cash on Delivery
+1268,5082,Home & Kitchen,22246.08,4,2026-05-01,Bangalore,Credit Card
+1269,5981,Fashion,14913.49,4,2026-03-15,Bangalore,Debit Card
+1270,5237,Electronics,31172.01,1,2026-04-14,Chennai,Debit Card
+1271,5755,Electronics,47291.9,1,2026-05-17,Mumbai,UPI
+1272,5585,Fashion,47022.06,2,2026-04-30,Hyderabad,Debit Card
+1273,5020,Fashion,6161.07,4,2026-05-29,Delhi,Cash on Delivery
+1274,5374,Fashion,27392.21,3,2026-03-24,Bangalore,UPI
+1275,5394,Fashion,3114.32,2,2026-05-22,Bangalore,Debit Card
+1276,5788,Fashion,2605.12,2,2026-04-11,Mumbai,Debit Card
+1277,5132,Fashion,41398.68,2,2026-05-08,Mumbai,Credit Card
+1278,5201,Beauty & Personal Care,1014.95,5,2026-06-07,Bangalore,Credit Card
+1279,5490,Beauty & Personal Care,9903.95,5,2026-04-21,Mumbai,Credit Card
+1280,5499,Home & Kitchen,18486.49,3,2026-04-30,Pune,Debit Card
+1281,5273,Beauty & Personal Care,23646.99,2,2026-05-17,Mumbai,UPI
+1282,5415,Beauty & Personal Care,20785.07,2,2026-05-28,Mumbai,Credit Card
+1283,5357,Home & Kitchen,45655.08,4,2026-05-23,Hyderabad,Credit Card
+1284,5061,Electronics,36224.76,1,2026-03-26,Chennai,Credit Card
+1285,5149,Beauty & Personal Care,1235.7,1,2026-05-12,Chennai,Cash on Delivery
+1286,5571,Fashion,1059.56,3,2026-05-12,Delhi,UPI
+1287,5707,Home & Kitchen,7106.28,2,2026-05-07,,Credit Card
+1288,5287,Electronics,7037.54,2,2026-05-03,Pune,UPI
+1289,5592,Fashion,3245.88,3,2026-04-16,Chennai,Credit Card
+1290,5266,Fashion,45776.1,3,2026-06-07,Hyderabad,UPI
+1291,5894,Electronics,15605.92,1,2026-03-23,Delhi,Debit Card
+1292,5085,Electronics,12900.39,1,2026-03-17,Delhi,Credit Card
+1293,5511,Home & Kitchen,33891.68,1,2026-03-30,Delhi,Credit Card
+1294,5257,Fashion,30883.45,1,2026-04-24,Delhi,UPI
+1295,5166,Home & Kitchen,37834.4,2,2026-03-15,Mumbai,Debit Card
+1296,5582,Electronics,17799.77,2,2026-03-26,Chennai,UPI
+1297,5321,Electronics,10811.4,5,2026-04-07,Chennai,UPI
+1298,5086,Electronics,21364.21,3,2026-03-18,Delhi,UPI
+1299,5237,Electronics,19550.52,5,2026-06-03,Chennai,Debit Card
+1300,5891,Electronics,40201.91,5,2026-03-21,Pune,UPI
+1301,5832,Fashion,11976.32,2,2026-06-07,Mumbai,Debit Card
+1302,5254,Home & Kitchen,48953.75,2,2026-05-01,Pune,UPI
+1303,5303,Home & Kitchen,11169.88,3,2026-05-31,Hyderabad,Cash on Delivery
+1304,5416,Fashion,16024.53,2,2026-05-06,Bangalore,UPI
+1305,5298,Home & Kitchen,38645.08,4,2026-03-31,Delhi,UPI
+1306,5795,Fashion,13593.54,4,2026-05-07,Mumbai,UPI
+1307,5782,Electronics,3139.11,3,2026-04-10,Bangalore,UPI
+1308,5184,Electronics,20296.43,4,2026-05-26,Hyderabad,Debit Card
+1309,5235,Fashion,25621.45,5,2026-04-03,Chennai,Credit Card
+1310,5055,Home & Kitchen,43934.67,3,2026-03-14,Delhi,Credit Card
+1311,5951,Fashion,40553.26,3,2026-04-11,Mumbai,Cash on Delivery
+1312,5733,Beauty & Personal Care,39090.08,1,2026-06-02,Pune,Cash on Delivery
+1313,5763,Home & Kitchen,27343.45,3,2026-03-31,Pune,Credit Card
+1314,5817,Electronics,26830.93,4,2026-04-08,Bangalore,Credit Card
+1315,5592,Beauty & Personal Care,49945.35,5,2026-04-05,Bangalore,Debit Card
+1316,5302,Fashion,6336.51,5,2026-05-26,Hyderabad,UPI
+1317,5676,Home & Kitchen,19999.2,5,2026-04-01,Pune,Cash on Delivery
+1318,5661,Home & Kitchen,36886.97,1,2026-05-30,Delhi,UPI
+1319,5948,Beauty & Personal Care,10041.17,1,2026-05-05,Delhi,Credit Card
+1320,5174,Home & Kitchen,36353.86,2,2026-05-31,Hyderabad,Debit Card
+1321,5663,Fashion,10086.77,2,2026-05-11,Chennai,Credit Card
+1322,5409,Home & Kitchen,33196.54,4,2026-06-02,Hyderabad,Credit Card
+1323,5634,Beauty & Personal Care,21164.34,2,2026-06-02,Mumbai,Cash on Delivery
+1324,5661,Fashion,21884.49,3,2026-04-30,Hyderabad,Debit Card
+1325,5274,Beauty & Personal Care,8032.0,4,2026-03-24,Chennai,UPI
+1326,5828,Electronics,37954.24,3,2026-05-06,Chennai,Debit Card
+1327,5264,Beauty & Personal Care,38107.29,4,2026-03-22,Bangalore,UPI
+1328,5761,Fashion,20052.53,5,2026-05-30,Bangalore,UPI
+1329,5597,Home & Kitchen,2171.03,2,2026-03-27,Bangalore,Credit Card
+1330,5930,Beauty & Personal Care,37947.08,3,2026-03-25,Pune,Cash on Delivery
+1331,5316,Fashion,1861.62,4,2026-05-13,Pune,Cash on Delivery
+1332,5645,Beauty & Personal Care,11710.16,4,2026-06-04,Bangalore,UPI
+1333,5758,Electronics,44220.86,5,2026-04-20,Delhi,Credit Card
+1334,5121,Electronics,19933.17,5,2026-05-26,Bangalore,UPI
+1335,5541,Beauty & Personal Care,26073.04,2,2026-03-19,Hyderabad,UPI
+1336,5132,Home & Kitchen,1053.71,5,2026-05-19,Delhi,Debit Card
+1337,5956,Fashion,2448.06,2,2026-04-25,Hyderabad,Cash on Delivery
+1338,5758,Home & Kitchen,4524.77,4,2026-05-24,Pune,Debit Card
+1339,5359,Fashion,4858.44,5,2026-05-05,Chennai,Debit Card
+1340,5683,Electronics,1253.22,5,2026-06-02,Chennai,Credit Card
+1341,5410,Home & Kitchen,17584.81,3,2026-03-21,Pune,Debit Card
+1342,5471,Electronics,6431.16,5,2026-04-01,Delhi,Cash on Delivery
+1343,5084,Home & Kitchen,42232.29,2,2026-05-30,Delhi,UPI
+1344,5634,Home & Kitchen,24192.35,1,2026-04-19,Bangalore,Credit Card
+1345,5396,Electronics,2226.04,5,2026-05-20,Chennai,Credit Card
+1346,5714,Beauty & Personal Care,7767.81,2,2026-03-22,Mumbai,Credit Card
+1347,5690,Home & Kitchen,25895.37,1,2026-05-17,Mumbai,Cash on Delivery
+1348,5073,Fashion,36067.97,2,2026-04-23,Hyderabad,Credit Card
+1349,5100,Electronics,28376.05,2,2026-04-24,Pune,Debit Card
+1350,5965,Fashion,4737.78,5,2026-04-22,Chennai,Cash on Delivery
+1351,5688,Electronics,1702.29,2,2026-04-29,Pune,Debit Card
+1352,5902,Electronics,44287.16,4,2026-03-14,Delhi,UPI
+1353,5768,Fashion,49543.72,2,2026-06-09,Mumbai,Credit Card
+1354,5668,Electronics,36263.97,2,2026-06-07,Mumbai,Credit Card
+1355,5398,Home & Kitchen,40802.34,1,2026-05-22,Mumbai,Debit Card
+1356,5470,Electronics,28688.22,5,2026-05-07,Pune,Debit Card
+1357,5450,Beauty & Personal Care,32768.96,4,2026-03-20,,Credit Card
+1358,5287,Fashion,23772.53,4,2026-05-24,Mumbai,Cash on Delivery
+1359,5127,Fashion,16573.7,5,2026-05-30,Delhi,Cash on Delivery
+1360,5197,Electronics,18014.98,5,2026-04-08,Pune,Cash on Delivery
+1361,5212,Fashion,46958.52,1,2026-03-21,Bangalore,UPI
+1362,5519,Electronics,15757.01,3,2026-03-15,Mumbai,UPI
+1363,5788,Fashion,13598.95,1,2026-03-31,Bangalore,Cash on Delivery
+1364,5612,Home & Kitchen,49869.88,1,2026-04-16,Chennai,Cash on Delivery
+1365,5654,Fashion,15840.27,3,2026-06-04,Bangalore,Credit Card
+1366,5713,Home & Kitchen,17135.71,5,2026-06-10,Chennai,Cash on Delivery
+1367,5875,Home & Kitchen,43820.38,5,2026-03-20,,UPI
+1368,5705,Electronics,34075.34,3,2026-03-20,Bangalore,Debit Card
+1369,5909,Electronics,46646.1,1,2026-03-13,Pune,Cash on Delivery
+1370,5554,Fashion,44252.45,1,2026-04-14,Hyderabad,Credit Card
+1371,5768,Home & Kitchen,45302.05,3,2026-04-29,Chennai,Debit Card
+1372,5484,Fashion,12429.7,1,2026-05-16,Hyderabad,Credit Card
+1373,5000,Beauty & Personal Care,40814.85,5,2026-03-22,Bangalore,UPI
+1374,5015,Electronics,18190.95,5,2026-04-13,Pune,UPI
+1375,5402,Home & Kitchen,35176.25,1,2026-04-18,,UPI
+1376,5655,Home & Kitchen,10235.88,5,2026-06-01,Bangalore,Debit Card
+1377,5481,Fashion,27158.9,2,2026-03-15,Mumbai,Credit Card
+1378,5773,Fashion,21799.56,2,2026-05-29,Pune,UPI
+1379,5998,Home & Kitchen,42913.6,5,2026-05-09,Bangalore,Debit Card
+1380,5443,Home & Kitchen,41263.58,3,2026-05-19,Bangalore,Debit Card
+1381,5228,Fashion,35870.47,3,2026-05-27,Bangalore,Credit Card
+1382,5208,Home & Kitchen,7429.9,3,2026-04-18,Chennai,Cash on Delivery
+1383,5500,Fashion,26114.11,4,2026-06-05,Chennai,Credit Card
+1384,5138,Beauty & Personal Care,44120.53,5,2026-05-18,Chennai,Debit Card
+1385,5138,Beauty & Personal Care,44635.73,3,2026-05-28,Bangalore,UPI
+1386,5741,Home & Kitchen,37227.23,5,2026-05-18,,Credit Card
+1387,5930,Electronics,18945.04,1,2026-04-21,Mumbai,UPI
+1388,5454,Electronics,36458.68,3,2026-06-08,Bangalore,UPI
+1389,5871,Beauty & Personal Care,34189.3,4,2026-04-12,Delhi,Cash on Delivery
+1390,5110,Home & Kitchen,23918.22,4,2026-03-15,Hyderabad,Credit Card
+1391,5570,Electronics,32464.57,2,2026-04-01,Chennai,Debit Card
+1392,5310,Electronics,1574.11,3,2026-05-30,Bangalore,Credit Card
+1393,5601,Home & Kitchen,48071.88,5,2026-05-16,,Cash on Delivery
+1394,5150,Home & Kitchen,9915.78,5,2026-06-01,Hyderabad,Cash on Delivery
+1395,5621,Fashion,41603.68,3,2026-04-16,Bangalore,UPI
+1396,5229,Beauty & Personal Care,19570.02,3,2026-03-26,Pune,Debit Card
+1397,5055,Fashion,31713.21,3,2026-03-17,,Cash on Delivery
+1398,5426,Home & Kitchen,45665.04,3,2026-05-01,Pune,Debit Card
+1399,5252,Electronics,31243.72,3,2026-04-15,Bangalore,Credit Card
+1400,5837,Electronics,25329.51,4,2026-03-17,Hyderabad,Credit Card
+1401,5399,Electronics,27894.09,3,2026-05-06,Chennai,UPI
+1402,5617,Beauty & Personal Care,46562.68,1,2026-04-29,Bangalore,Debit Card
+1403,5602,Home & Kitchen,12922.09,2,2026-05-29,Delhi,UPI
+1404,5982,Fashion,12889.17,2,2026-03-25,Delhi,Debit Card
+1405,5459,Fashion,24362.46,1,2026-04-10,Hyderabad,UPI
+1406,5788,Fashion,17416.45,2,2026-03-15,Pune,Credit Card
+1407,5722,Fashion,25382.45,3,2026-03-22,Chennai,Debit Card
+1408,5546,Fashion,45240.73,2,2026-03-13,Chennai,UPI
+1409,5376,Home & Kitchen,30013.19,1,2026-03-27,Mumbai,Cash on Delivery
+1410,5908,Beauty & Personal Care,47612.85,4,2026-03-15,Pune,Credit Card
+1411,5717,Beauty & Personal Care,24638.35,1,2026-05-21,Bangalore,UPI
+1412,5458,Electronics,25790.84,4,2026-04-23,Pune,Credit Card
+1413,5465,Electronics,36407.0,4,2026-03-14,Delhi,Cash on Delivery
+1414,5795,Beauty & Personal Care,33713.35,2,2026-04-14,Chennai,Debit Card
+1415,5086,Home & Kitchen,13831.52,1,2026-06-05,Chennai,Debit Card
+1416,5917,Fashion,4867.97,3,2026-06-08,Mumbai,Cash on Delivery
+1417,5351,Electronics,5352.35,3,2026-03-29,Bangalore,Debit Card
+1418,5813,Beauty & Personal Care,49739.27,1,2026-05-12,Delhi,Cash on Delivery
+1419,5371,Beauty & Personal Care,10248.81,3,2026-04-23,Bangalore,Credit Card
+1420,5769,Beauty & Personal Care,39893.14,1,2026-05-30,Hyderabad,Credit Card
+1421,5457,Beauty & Personal Care,30550.38,3,2026-04-26,Pune,Debit Card
+1422,5853,Beauty & Personal Care,37202.28,4,2026-06-06,Bangalore,UPI
+1423,5337,Electronics,13083.76,5,2026-05-14,,UPI
+1424,5643,Beauty & Personal Care,30796.93,3,2026-03-23,Mumbai,Debit Card
+1425,5982,Home & Kitchen,8219.53,5,2026-04-13,Chennai,UPI
+1426,5087,Electronics,3187.02,3,2026-05-09,Pune,Debit Card
+1427,5541,Fashion,31409.87,1,2026-04-27,Mumbai,Credit Card
+1428,5471,Electronics,45579.51,1,2026-05-26,Hyderabad,Debit Card
+1429,5278,Home & Kitchen,4025.73,4,2026-06-04,Pune,Credit Card
+1430,5644,Beauty & Personal Care,29271.32,1,2026-03-23,Chennai,Debit Card
+1431,5135,Electronics,41274.84,1,2026-06-03,,Credit Card
+1432,5340,Home & Kitchen,37147.68,3,2026-04-02,Hyderabad,Cash on Delivery
+1433,5213,Home & Kitchen,21059.82,5,2026-05-19,Delhi,UPI
+1434,5441,Fashion,48915.12,3,2026-04-12,Delhi,Credit Card
+1435,5120,Beauty & Personal Care,15817.43,1,2026-04-10,Chennai,Cash on Delivery
+1436,5176,Fashion,8817.34,1,2026-05-23,Chennai,UPI
+1437,5978,Fashion,17725.15,4,2026-03-26,Delhi,Cash on Delivery
+1438,5888,Fashion,28578.33,2,2026-03-23,Mumbai,Debit Card
+1439,5656,Electronics,31014.11,3,2026-03-18,Delhi,Credit Card
+1440,5711,Beauty & Personal Care,13101.5,2,2026-04-15,Pune,UPI
+1441,5363,Electronics,371.14,3,2026-05-31,Hyderabad,Cash on Delivery
+1442,5179,Fashion,14212.26,2,2026-03-17,Delhi,Cash on Delivery
+1443,5118,Fashion,7425.75,1,2026-03-12,Chennai,Credit Card
+1444,5612,Fashion,20019.87,4,2026-03-21,,Debit Card
+1445,5772,Electronics,6489.6,3,2026-04-29,Delhi,Debit Card
+1446,5200,Home & Kitchen,17039.94,2,2026-03-26,Mumbai,Credit Card
+1447,5642,Beauty & Personal Care,33381.5,4,2026-05-24,Delhi,Cash on Delivery
+1448,5422,Fashion,14404.55,4,2026-05-22,Bangalore,Cash on Delivery
+1449,5968,Beauty & Personal Care,45633.91,1,2026-03-15,Chennai,Cash on Delivery
+1450,5074,Home & Kitchen,30770.17,5,2026-03-14,Chennai,Cash on Delivery
+1451,5836,Electronics,35191.97,1,2026-05-05,Mumbai,Debit Card
+1452,5887,Home & Kitchen,17236.86,2,2026-05-31,Mumbai,Credit Card
+1453,5858,Fashion,3949.56,3,2026-06-08,Bangalore,Debit Card
+1454,5861,Electronics,11113.49,1,2026-04-27,Chennai,Debit Card
+1455,5845,Fashion,33005.08,2,2026-04-07,Pune,Cash on Delivery
+1456,5159,Beauty & Personal Care,34052.24,3,2026-03-21,Bangalore,Credit Card
+1457,5302,Electronics,7258.24,3,2026-04-10,Chennai,UPI
+1458,5204,Electronics,25061.83,4,2026-04-06,Chennai,UPI
+1459,5361,Electronics,18697.3,2,2026-04-21,Delhi,Credit Card
+1460,5856,Beauty & Personal Care,43899.62,3,2026-04-04,Delhi,Debit Card
+1461,5169,Electronics,39572.49,5,2026-03-15,Chennai,Debit Card
+1462,5662,Electronics,4524.49,5,2026-03-22,Mumbai,Cash on Delivery
+1463,5640,Electronics,16497.07,5,2026-05-08,Chennai,Debit Card
+1464,5288,Electronics,43644.62,1,2026-05-19,Mumbai,Credit Card
+1465,5952,Electronics,18062.39,3,2026-04-14,Pune,Cash on Delivery
+1466,5839,Fashion,32255.7,2,2026-05-30,Hyderabad,Cash on Delivery
+1467,5271,Fashion,23488.19,3,2026-05-20,Bangalore,Debit Card
+1468,5827,Fashion,18226.3,5,2026-05-09,Delhi,Cash on Delivery
+1469,5185,Home & Kitchen,28386.6,4,2026-04-15,Chennai,Credit Card
+1470,5003,Home & Kitchen,22833.93,3,2026-04-15,Delhi,Cash on Delivery
+1471,5723,Fashion,33682.5,2,2026-06-05,Chennai,Cash on Delivery
+1472,5826,Fashion,45007.03,4,2026-04-18,Pune,Credit Card
+1473,5533,Home & Kitchen,48875.51,2,2026-05-17,Mumbai,Credit Card
+1474,5158,Beauty & Personal Care,4430.28,4,2026-04-08,Pune,UPI
+1475,5868,Home & Kitchen,49618.57,4,2026-05-17,Mumbai,Credit Card
+1476,5508,Home & Kitchen,14128.95,3,2026-04-04,Bangalore,Cash on Delivery
+1477,5274,Home & Kitchen,8901.56,4,2026-06-07,Delhi,Debit Card
+1478,5549,Electronics,4435.99,1,2026-05-14,Bangalore,Debit Card
+1479,5268,Electronics,32197.43,5,2026-03-24,Hyderabad,UPI
+1480,5321,Electronics,33025.3,4,2026-05-28,,Cash on Delivery
+1481,5431,Electronics,41948.5,1,2026-04-22,Mumbai,Debit Card
+1482,5108,Home & Kitchen,27112.18,3,2026-03-22,Hyderabad,Credit Card
+1483,5573,Fashion,8868.2,1,2026-05-17,Bangalore,Cash on Delivery
+1484,5444,Home & Kitchen,42451.8,4,2026-05-02,Hyderabad,UPI
+1485,5864,Home & Kitchen,39701.79,5,2026-04-07,Mumbai,UPI
+1486,5084,Home & Kitchen,37131.93,1,2026-04-03,Bangalore,Cash on Delivery
+1487,5048,Electronics,2234.19,3,2026-04-28,Mumbai,Credit Card
+1488,5584,Fashion,4769.69,5,2026-03-29,Mumbai,Cash on Delivery
+1489,5097,Home & Kitchen,8845.68,1,2026-03-13,Hyderabad,UPI
+1490,5527,Beauty & Personal Care,45858.84,1,2026-04-21,Hyderabad,UPI
+1491,5136,Electronics,46603.4,2,2026-04-17,Chennai,Debit Card
+1492,5093,Electronics,25219.25,4,2026-04-21,Hyderabad,Debit Card
+1493,5957,Fashion,28247.29,1,2026-04-07,Pune,Cash on Delivery
+1494,5708,Fashion,18481.73,5,2026-05-28,Pune,Credit Card
+1495,5273,Electronics,28101.53,3,2026-03-29,Delhi,Credit Card
+1496,5246,Home & Kitchen,46096.02,5,2026-04-24,Pune,Debit Card
+1497,5953,Home & Kitchen,28459.53,4,2026-05-20,Hyderabad,Debit Card
+1498,5634,Electronics,39882.82,5,2026-04-13,Mumbai,Debit Card
+1499,5934,Electronics,8520.12,4,2026-05-11,Pune,Cash on Delivery
+1500,5892,Electronics,13617.25,5,2026-05-26,Pune,UPI
+1501,5408,Beauty & Personal Care,10400.08,2,2026-05-07,Chennai,Credit Card
+1502,5704,Electronics,2839.66,1,2026-06-08,Pune,Debit Card
+1503,5773,Electronics,34205.65,3,2026-03-13,Bangalore,Cash on Delivery
+1504,5153,Beauty & Personal Care,40161.75,3,2026-03-12,Mumbai,Credit Card
+1505,5908,Home & Kitchen,16890.25,2,2026-03-25,Chennai,Cash on Delivery
+1506,5102,Fashion,31193.2,4,2026-03-14,Hyderabad,UPI
+1507,5515,Electronics,16608.39,4,2026-04-25,Pune,Cash on Delivery
+1508,5552,Beauty & Personal Care,3988.91,4,2026-04-14,Pune,UPI
+1509,5199,Beauty & Personal Care,41638.26,4,2026-03-16,Bangalore,Cash on Delivery
+1510,5000,Home & Kitchen,3839.92,2,2026-03-16,Delhi,Debit Card
+1511,5075,Fashion,20114.72,5,2026-04-14,Pune,Debit Card
+1512,5870,Beauty & Personal Care,4301.27,5,2026-04-02,Delhi,Cash on Delivery
+1513,5398,Home & Kitchen,9338.61,5,2026-03-28,Hyderabad,Cash on Delivery
+1514,5765,Home & Kitchen,28939.65,1,2026-03-14,Delhi,UPI
+1515,5944,Electronics,34593.99,2,2026-04-11,Chennai,UPI
+1516,5263,Beauty & Personal Care,28439.92,3,2026-05-12,Hyderabad,Credit Card
+1517,5042,Fashion,46601.72,2,2026-04-23,Bangalore,Credit Card
+1518,5220,Electronics,10403.54,5,2026-05-16,Chennai,Cash on Delivery
+1519,5507,Electronics,21616.66,4,2026-06-06,Bangalore,Cash on Delivery
+1520,5246,Fashion,27885.43,4,2026-04-26,Mumbai,Cash on Delivery
+1521,5276,Beauty & Personal Care,7585.65,1,2026-04-23,Chennai,Debit Card
+1522,5501,Home & Kitchen,405.33,3,2026-06-05,Chennai,Cash on Delivery
+1523,5816,Fashion,24104.18,4,2026-04-15,Delhi,Cash on Delivery
+1524,5291,Electronics,32987.64,1,2026-03-30,Chennai,Cash on Delivery
+1525,5598,Electronics,13970.05,2,2026-04-30,Hyderabad,UPI
+1526,5555,Fashion,39719.72,1,2026-04-27,Mumbai,UPI
+1527,5862,Home & Kitchen,7023.18,2,2026-05-05,Pune,Credit Card
+1528,5807,Home & Kitchen,35325.05,4,2026-04-03,Pune,UPI
+1529,5426,Electronics,468.21,5,2026-03-13,Hyderabad,Cash on Delivery
+1530,5438,Fashion,46466.79,2,2026-04-03,Hyderabad,UPI
+1531,5368,Electronics,38331.14,5,2026-05-24,Delhi,UPI
+1532,5578,Fashion,6761.16,3,2026-05-29,Hyderabad,Debit Card
+1533,5458,Fashion,25323.72,4,2026-04-23,Delhi,UPI
+1534,5346,Fashion,2785.18,4,2026-05-24,Delhi,Cash on Delivery
+1535,5771,Electronics,17117.8,2,2026-03-20,Hyderabad,UPI
+1536,5421,Home & Kitchen,37405.91,3,2026-04-25,Bangalore,Cash on Delivery
+1537,5974,Beauty & Personal Care,7801.82,5,2026-04-17,Bangalore,UPI
+1538,5664,Home & Kitchen,39671.81,5,2026-03-12,Bangalore,Debit Card
+1539,5096,Home & Kitchen,13871.67,4,2026-04-18,Delhi,Cash on Delivery
+1540,5961,Home & Kitchen,48352.52,2,2026-05-28,Delhi,UPI
+1541,5258,Home & Kitchen,42668.7,2,2026-03-13,Pune,Credit Card
+1542,5704,Home & Kitchen,939.82,4,2026-03-19,Chennai,Credit Card
+1543,5069,Electronics,2385.2,2,2026-03-18,Hyderabad,Credit Card
+1544,5036,Beauty & Personal Care,12691.2,1,2026-05-03,Bangalore,Cash on Delivery
+1545,5712,Beauty & Personal Care,5629.75,4,2026-03-15,Delhi,UPI
+1546,5991,Home & Kitchen,41105.32,2,2026-05-27,Pune,Cash on Delivery
+1547,5708,Home & Kitchen,33345.67,4,2026-04-19,Mumbai,Debit Card
+1548,5730,Home & Kitchen,38146.41,5,2026-05-12,Hyderabad,Debit Card
+1549,5369,Beauty & Personal Care,42001.8,4,2026-03-14,Chennai,Debit Card
+1550,5311,Beauty & Personal Care,44685.05,5,2026-06-05,Hyderabad,Debit Card
+1551,5938,Beauty & Personal Care,3634.27,4,2026-04-01,Chennai,Credit Card
+1552,5071,Fashion,46227.35,2,2026-04-07,Bangalore,Cash on Delivery
+1553,5567,Electronics,36236.32,5,2026-03-23,Chennai,Debit Card
+1554,5793,Beauty & Personal Care,4543.82,2,2026-04-27,Bangalore,Cash on Delivery
+1555,5378,Beauty & Personal Care,11111.03,4,2026-03-18,Delhi,Debit Card
+1556,5608,Fashion,37939.61,2,2026-04-22,Chennai,Credit Card
+1557,5617,Fashion,28820.22,1,2026-04-20,Bangalore,Cash on Delivery
+1558,5288,Electronics,11208.36,1,2026-03-29,Pune,Cash on Delivery
+1559,5867,Electronics,40514.62,2,2026-04-04,Bangalore,Debit Card
+1560,5096,Fashion,40470.41,2,2026-05-29,Delhi,Cash on Delivery
+1561,5498,Electronics,10007.49,2,2026-06-03,Chennai,Cash on Delivery
+1562,5880,Beauty & Personal Care,49929.22,3,2026-06-08,Pune,Cash on Delivery
+1563,5193,Beauty & Personal Care,35662.69,3,2026-06-03,Pune,UPI
+1564,5436,Electronics,35293.86,2,2026-05-20,Bangalore,UPI
+1565,5330,Home & Kitchen,47586.47,1,2026-05-22,Delhi,Cash on Delivery
+1566,5936,Electronics,43467.22,2,2026-06-03,Delhi,Debit Card
+1567,5191,Beauty & Personal Care,32174.09,5,2026-05-24,Bangalore,UPI
+1568,5049,Electronics,27223.57,3,2026-05-07,Mumbai,Debit Card
+1569,5942,Home & Kitchen,48650.69,4,2026-06-10,Chennai,Debit Card
+1570,5817,Electronics,39825.46,2,2026-04-25,Bangalore,Debit Card
+1571,5276,Home & Kitchen,23157.7,3,2026-05-27,Bangalore,Credit Card
+1572,5595,Electronics,17218.96,5,2026-04-10,Chennai,Credit Card
+1573,5232,Beauty & Personal Care,10462.21,2,2026-05-24,Pune,Cash on Delivery
+1574,5223,Fashion,28288.26,4,2026-04-01,Hyderabad,UPI
+1575,5436,Electronics,40627.13,1,2026-05-26,Hyderabad,Credit Card
+1576,5486,Fashion,37110.36,5,2026-03-29,Delhi,Credit Card
+1577,5290,Fashion,2679.91,1,2026-05-15,Bangalore,Debit Card
+1578,5697,Fashion,48285.34,3,2026-03-23,Pune,UPI
+1579,5921,Fashion,42365.46,3,2026-03-15,Delhi,Debit Card
+1580,5346,Beauty & Personal Care,27530.44,2,2026-03-13,Hyderabad,Cash on Delivery
+1581,5067,Electronics,45981.79,2,2026-05-04,Hyderabad,UPI
+1582,5121,Fashion,19348.6,3,2026-04-10,Hyderabad,UPI
+1583,5293,Fashion,45274.96,4,2026-05-25,,Credit Card
+1584,5346,Electronics,26720.07,3,2026-04-13,Hyderabad,UPI
+1585,5200,Home & Kitchen,14591.33,1,2026-03-23,Mumbai,UPI
+1586,5904,Beauty & Personal Care,18240.13,1,2026-03-27,Chennai,Cash on Delivery
+1587,5228,Fashion,27235.74,5,2026-03-17,Mumbai,UPI
+1588,5857,Electronics,21849.35,5,2026-04-26,Mumbai,UPI
+1589,5665,Beauty & Personal Care,46025.95,3,2026-05-31,Bangalore,UPI
+1590,5695,Beauty & Personal Care,16948.55,3,2026-04-05,Hyderabad,Cash on Delivery
+1591,5009,Fashion,26415.0,5,2026-06-08,Bangalore,Credit Card
+1592,5343,Home & Kitchen,8720.42,2,2026-04-27,Bangalore,UPI
+1593,5070,Fashion,7047.85,2,2026-03-31,Mumbai,Cash on Delivery
+1594,5389,Home & Kitchen,30362.75,5,2026-06-04,Chennai,UPI
+1595,5678,Beauty & Personal Care,34984.3,1,2026-06-01,Delhi,Credit Card
+1596,5501,Fashion,790.6,1,2026-04-19,Bangalore,Credit Card
+1597,5135,Beauty & Personal Care,41803.63,4,2026-03-26,Pune,Cash on Delivery
+1598,5852,Beauty & Personal Care,31079.66,4,2026-03-19,Pune,Credit Card
+1599,5852,Electronics,7777.76,5,2026-05-31,Pune,Credit Card
+1600,5905,Fashion,26176.68,5,2026-03-13,,Debit Card
+1601,5281,Beauty & Personal Care,33157.51,4,2026-05-13,Pune,Credit Card
+1602,5090,Fashion,12300.28,3,2026-03-18,Mumbai,Credit Card
+1603,5408,Electronics,1620.08,2,2026-05-23,Mumbai,Cash on Delivery
+1604,5797,Home & Kitchen,14168.98,3,2026-03-17,Delhi,Credit Card
+1605,5271,Electronics,7909.79,5,2026-05-30,Delhi,Credit Card
+1606,5040,Electronics,30338.71,2,2026-05-26,Bangalore,Credit Card
+1607,5994,Electronics,24651.6,1,2026-04-17,Mumbai,Cash on Delivery
+1608,5729,Beauty & Personal Care,819.35,4,2026-05-23,Hyderabad,Debit Card
+1609,5515,Electronics,36601.59,2,2026-06-07,Delhi,Debit Card
+1610,5893,Home & Kitchen,17122.76,1,2026-06-08,Pune,UPI
+1611,5374,Fashion,42419.24,5,2026-05-21,Chennai,UPI
+1612,5200,Fashion,25416.14,2,2026-05-06,,UPI
+1613,5425,Electronics,25074.49,5,2026-04-08,Mumbai,Credit Card
+1614,5439,Beauty & Personal Care,32279.47,2,2026-05-04,Chennai,Cash on Delivery
+1615,5999,Beauty & Personal Care,49076.55,1,2026-03-18,Chennai,Credit Card
+1616,5238,Home & Kitchen,485.11,2,2026-05-20,Delhi,Credit Card
+1617,5367,Home & Kitchen,6678.12,1,2026-05-02,Pune,UPI
+1618,5544,Fashion,39616.53,5,2026-05-13,Pune,Debit Card
+1619,5785,Fashion,32481.28,4,2026-05-06,Delhi,UPI
+1620,5113,Home & Kitchen,24953.4,5,2026-05-19,Delhi,UPI
+1621,5819,Fashion,43182.8,3,2026-03-22,Bangalore,Credit Card
+1622,5533,Fashion,20323.41,3,2026-04-03,Hyderabad,Debit Card
+1623,5151,Beauty & Personal Care,22826.61,5,2026-04-19,Chennai,Cash on Delivery
+1624,5314,Electronics,45651.1,1,2026-05-21,Mumbai,Debit Card
+1625,5315,Fashion,44744.28,3,2026-03-30,Pune,Cash on Delivery
+1626,5697,Home & Kitchen,36026.93,4,2026-03-16,,Credit Card
+1627,5625,Electronics,1992.78,4,2026-03-25,Pune,Cash on Delivery
+1628,5695,Fashion,29899.97,2,2026-03-19,Hyderabad,Credit Card
+1629,5571,Beauty & Personal Care,13258.52,5,2026-03-20,Delhi,Credit Card
+1630,5653,Electronics,11719.39,3,2026-04-07,Mumbai,UPI
+1631,5429,Beauty & Personal Care,13782.89,5,2026-05-04,Mumbai,Debit Card
+1632,5998,Electronics,14564.18,3,2026-03-25,Bangalore,Cash on Delivery
+1633,5222,Beauty & Personal Care,29912.54,5,2026-04-15,Bangalore,Cash on Delivery
+1634,5866,Electronics,9172.09,1,2026-05-02,Delhi,UPI
+1635,5912,Home & Kitchen,38030.59,5,2026-03-30,Delhi,Debit Card
+1636,5253,Fashion,1245.19,4,2026-04-20,Mumbai,Credit Card
+1637,5516,Fashion,8567.55,3,2026-03-12,Hyderabad,Debit Card
+1638,5431,Electronics,34328.01,3,2026-04-13,Delhi,Debit Card
+1639,5776,Electronics,29016.56,3,2026-03-27,Delhi,UPI
+1640,5419,Fashion,38201.1,5,2026-03-12,Bangalore,Debit Card
+1641,5255,Beauty & Personal Care,11433.36,1,2026-03-25,Mumbai,Cash on Delivery
+1642,5859,Beauty & Personal Care,36951.07,2,2026-05-05,Chennai,Cash on Delivery
+1643,5009,Fashion,41119.61,3,2026-05-08,Pune,Credit Card
+1644,5476,Fashion,12964.61,5,2026-05-10,Bangalore,Debit Card
+1645,5343,Beauty & Personal Care,14536.6,1,2026-03-14,,Credit Card
+1646,5855,Beauty & Personal Care,35032.38,2,2026-03-22,Mumbai,Debit Card
+1647,5307,Electronics,19784.73,2,2026-04-27,Hyderabad,Debit Card
+1648,5035,Beauty & Personal Care,36883.73,1,2026-03-23,Mumbai,Credit Card
+1649,5865,Home & Kitchen,5646.23,2,2026-03-18,Chennai,Credit Card
+1650,5429,Beauty & Personal Care,18918.24,1,2026-03-19,Hyderabad,UPI
+1651,5454,Electronics,26555.7,4,2026-04-17,Chennai,Credit Card
+1652,5657,Fashion,13556.91,5,2026-04-23,Delhi,Cash on Delivery
+1653,5802,Electronics,26826.98,1,2026-03-29,Delhi,Debit Card
+1654,5902,Beauty & Personal Care,2967.98,4,2026-03-25,Chennai,Debit Card
+1655,5901,Fashion,12082.55,5,2026-04-04,Hyderabad,UPI
+1656,5932,Home & Kitchen,42538.4,1,2026-04-02,Bangalore,Debit Card
+1657,5858,Electronics,33665.21,4,2026-03-18,Delhi,UPI
+1658,5913,Fashion,15359.77,1,2026-06-03,Delhi,Debit Card
+1659,5680,Electronics,1675.98,2,2026-04-03,Pune,Debit Card
+1660,5185,Fashion,18532.32,5,2026-05-13,Bangalore,Debit Card
+1661,5571,Home & Kitchen,11563.24,1,2026-03-20,Pune,Cash on Delivery
+1662,5024,Beauty & Personal Care,24060.56,1,2026-04-17,Hyderabad,Debit Card
+1663,5633,Fashion,39086.62,1,2026-05-16,,Debit Card
+1664,5065,Fashion,35890.69,4,2026-03-28,Hyderabad,UPI
+1665,5844,Electronics,1710.17,3,2026-05-05,Chennai,Debit Card
+1666,5821,Electronics,27554.03,5,2026-03-21,Pune,Debit Card
+1667,5595,Home & Kitchen,23154.42,5,2026-04-30,Mumbai,UPI
+1668,5766,Home & Kitchen,26263.37,1,2026-06-06,Pune,Cash on Delivery
+1669,5110,Beauty & Personal Care,27884.47,1,2026-06-06,Pune,Debit Card
+1670,5628,Fashion,1830.47,4,2026-05-29,Mumbai,Credit Card
+1671,5192,Fashion,42584.05,5,2026-05-03,Mumbai,Credit Card
+1672,5316,Home & Kitchen,19752.73,1,2026-06-06,Mumbai,UPI
+1673,5027,Fashion,2596.46,4,2026-04-06,Hyderabad,Debit Card
+1674,5040,Fashion,1806.64,2,2026-06-09,Hyderabad,UPI
+1675,5603,Home & Kitchen,46392.38,3,2026-03-29,Delhi,Debit Card
+1676,5760,Fashion,17279.2,2,2026-05-06,Hyderabad,UPI
+1677,5284,Beauty & Personal Care,7472.16,5,2026-05-17,Mumbai,Debit Card
+1678,5067,Electronics,40804.53,2,2026-04-13,Hyderabad,UPI
+1679,5869,Home & Kitchen,43389.17,1,2026-04-19,Pune,Cash on Delivery
+1680,5626,Fashion,37343.86,4,2026-05-07,Hyderabad,Credit Card
+1681,5627,Beauty & Personal Care,13844.03,4,2026-05-15,Bangalore,Cash on Delivery
+1682,5115,Beauty & Personal Care,22310.47,4,2026-05-20,Chennai,UPI
+1683,5456,Fashion,1691.12,1,2026-05-04,Pune,UPI
+1684,5177,Beauty & Personal Care,2771.99,2,2026-04-29,Chennai,UPI
+1685,5384,Beauty & Personal Care,11940.03,3,2026-03-25,Pune,Debit Card
+1686,5850,Home & Kitchen,48491.38,5,2026-04-12,Chennai,Cash on Delivery
+1687,5064,Fashion,46626.25,1,2026-05-18,Mumbai,Debit Card
+1688,5077,Fashion,29594.47,5,2026-04-09,Delhi,UPI
+1689,5946,Fashion,41726.86,5,2026-04-03,Pune,Credit Card
+1690,5274,Fashion,45301.15,1,2026-05-02,Chennai,Credit Card
+1691,5722,Beauty & Personal Care,7088.78,2,2026-03-23,Hyderabad,Credit Card
+1692,5091,Fashion,21511.38,2,2026-06-03,Mumbai,Debit Card
+1693,5517,Fashion,49720.21,3,2026-05-16,Chennai,UPI
+1694,5026,Electronics,5278.22,3,2026-03-14,Delhi,Credit Card
+1695,5930,Beauty & Personal Care,33546.07,5,2026-04-09,Delhi,Debit Card
+1696,5757,Fashion,5725.74,4,2026-05-18,Delhi,UPI
+1697,5375,Fashion,34457.48,2,2026-03-25,Chennai,UPI
+1698,5097,Electronics,39454.57,2,2026-05-26,Pune,UPI
+1699,5022,Beauty & Personal Care,37153.96,5,2026-03-12,Pune,Cash on Delivery
+1700,5347,Fashion,5224.55,1,2026-03-29,Pune,UPI
+1701,5831,Electronics,31097.89,4,2026-05-18,Bangalore,Credit Card
+1702,5747,Electronics,22310.92,5,2026-04-27,Hyderabad,UPI
+1703,5460,Home & Kitchen,44521.29,1,2026-05-17,Delhi,UPI
+1704,5742,Electronics,35044.46,3,2026-04-08,Pune,Debit Card
+1705,5563,Fashion,12597.27,5,2026-04-22,Bangalore,Credit Card
+1706,5109,Home & Kitchen,23411.17,3,2026-04-02,Delhi,Credit Card
+1707,5845,Electronics,5151.24,1,2026-05-31,Delhi,UPI
+1708,5474,Home & Kitchen,27326.38,4,2026-04-09,Pune,Cash on Delivery
+1709,5215,Beauty & Personal Care,2354.79,4,2026-04-25,Hyderabad,Cash on Delivery
+1710,5210,Home & Kitchen,5705.87,3,2026-05-04,Chennai,Credit Card
+1711,5660,Home & Kitchen,9513.32,5,2026-05-29,Pune,Debit Card
+1712,5471,Fashion,13754.05,5,2026-05-08,Bangalore,Credit Card
+1713,5424,Home & Kitchen,26788.16,3,2026-04-02,Hyderabad,Debit Card
+1714,5986,Beauty & Personal Care,20440.92,5,2026-03-21,Chennai,Cash on Delivery
+1715,5865,Beauty & Personal Care,6878.42,3,2026-04-24,Hyderabad,Credit Card
+1716,5061,Home & Kitchen,24991.66,2,2026-05-03,Pune,Debit Card
+1717,5739,Electronics,6507.23,3,2026-06-09,,UPI
+1718,5015,Home & Kitchen,32897.28,4,2026-03-23,Pune,Credit Card
+1719,5822,Fashion,13055.21,2,2026-03-24,Pune,Debit Card
+1720,5076,Electronics,35116.79,4,2026-03-18,Mumbai,Debit Card
+1721,5569,Beauty & Personal Care,1987.57,5,2026-05-10,Delhi,Cash on Delivery
+1722,5054,Electronics,41772.4,2,2026-04-04,Delhi,Credit Card
+1723,5291,Home & Kitchen,34452.16,1,2026-05-01,Delhi,UPI
+1724,5383,Fashion,33252.76,5,2026-04-23,Pune,Debit Card
+1725,5414,Electronics,40935.8,1,2026-05-18,Chennai,Cash on Delivery
+1726,5739,Beauty & Personal Care,3917.69,5,2026-06-01,Pune,Debit Card
+1727,5229,Home & Kitchen,17842.96,4,2026-03-29,Pune,Credit Card
+1728,5091,Beauty & Personal Care,13872.85,2,2026-05-09,Delhi,UPI
+1729,5687,Home & Kitchen,25861.17,3,2026-05-22,Pune,UPI
+1730,5263,Fashion,33068.9,1,2026-05-09,,Credit Card
+1731,5748,Fashion,17196.57,5,2026-04-15,,Debit Card
+1732,5894,Electronics,41550.79,2,2026-06-04,Hyderabad,Cash on Delivery
+1733,5622,Electronics,2239.65,5,2026-04-29,Bangalore,UPI
+1734,5970,Fashion,518.57,2,2026-04-11,Bangalore,Debit Card
+1735,5996,Beauty & Personal Care,41939.98,1,2026-03-24,Mumbai,Cash on Delivery
+1736,5998,Fashion,46750.42,5,2026-05-19,Chennai,Debit Card
+1737,5268,Fashion,44513.62,1,2026-04-18,Mumbai,Cash on Delivery
+1738,5728,Home & Kitchen,45662.48,1,2026-03-18,Mumbai,Cash on Delivery
+1739,5081,Beauty & Personal Care,4621.44,5,2026-04-01,Bangalore,Cash on Delivery
+1740,5837,Home & Kitchen,43020.65,4,2026-04-14,Pune,Cash on Delivery
+1741,5835,Beauty & Personal Care,23226.79,4,2026-04-17,Mumbai,UPI
+1742,5340,Beauty & Personal Care,27540.67,4,2026-04-13,Hyderabad,Credit Card
+1743,5900,Fashion,3414.66,2,2026-05-11,Mumbai,UPI
+1744,5839,Home & Kitchen,46706.55,1,2026-03-17,Mumbai,Cash on Delivery
+1745,5051,Home & Kitchen,43495.9,5,2026-04-08,Delhi,UPI
+1746,5275,Beauty & Personal Care,43398.29,2,2026-04-14,Mumbai,UPI
+1747,5628,Beauty & Personal Care,2254.02,4,2026-04-17,Hyderabad,Debit Card
+1748,5900,Home & Kitchen,11359.17,5,2026-03-13,,Debit Card
+1749,5174,Beauty & Personal Care,22490.95,3,2026-03-25,Pune,Cash on Delivery
+1750,5663,Electronics,27411.05,5,2026-04-14,Bangalore,Credit Card
+1751,5759,Home & Kitchen,25868.34,2,2026-03-21,Mumbai,Cash on Delivery
+1752,5228,Fashion,16838.71,2,2026-05-23,Pune,UPI
+1753,5906,Home & Kitchen,37120.69,1,2026-05-18,Delhi,Debit Card
+1754,5226,Electronics,22786.15,3,2026-06-01,Pune,Credit Card
+1755,5469,Fashion,16022.21,3,2026-05-18,Pune,Cash on Delivery
+1756,5128,Beauty & Personal Care,17617.79,4,2026-03-15,Chennai,Debit Card
+1757,5322,Electronics,43716.63,3,2026-05-03,Mumbai,Debit Card
+1758,5485,Electronics,6495.09,2,2026-03-25,Delhi,UPI
+1759,5780,Home & Kitchen,41399.06,5,2026-04-27,Delhi,Debit Card
+1760,5754,Beauty & Personal Care,26436.32,5,2026-03-28,Bangalore,UPI
+1761,5955,Electronics,41962.59,3,2026-05-19,,UPI
+1762,5585,Electronics,22277.48,3,2026-04-24,Pune,Credit Card
+1763,5580,Electronics,18632.57,4,2026-05-08,Hyderabad,Cash on Delivery
+1764,5847,Electronics,44273.43,2,2026-06-03,Delhi,Cash on Delivery
+1765,5767,Fashion,8370.31,5,2026-05-22,Pune,Cash on Delivery
+1766,5414,Electronics,13479.6,2,2026-05-16,Pune,UPI
+1767,5236,Beauty & Personal Care,16568.12,2,2026-04-05,Delhi,Debit Card
+1768,5318,Fashion,18007.28,1,2026-03-14,Delhi,Cash on Delivery
+1769,5190,Electronics,42026.43,4,2026-05-20,Pune,Debit Card
+1770,5135,Electronics,44928.12,4,2026-03-20,Bangalore,Cash on Delivery
+1771,5319,Beauty & Personal Care,28328.48,1,2026-04-25,Hyderabad,Credit Card
+1772,5919,Home & Kitchen,13206.43,2,2026-04-08,Hyderabad,Credit Card
+1773,5422,Electronics,36619.62,2,2026-05-26,Delhi,Credit Card
+1774,5771,Beauty & Personal Care,8620.42,1,2026-04-26,Bangalore,Credit Card
+1775,5612,Electronics,12707.2,3,2026-04-19,Mumbai,Debit Card
+1776,5984,Fashion,5920.87,4,2026-04-29,Hyderabad,Credit Card
+1777,5149,Beauty & Personal Care,11957.38,3,2026-04-01,Chennai,Credit Card
+1778,5161,Electronics,17802.92,2,2026-05-20,Chennai,Cash on Delivery
+1779,5855,Home & Kitchen,17240.2,1,2026-03-25,Bangalore,Cash on Delivery
+1780,5149,Electronics,27874.98,5,2026-05-29,Hyderabad,Cash on Delivery
+1781,5780,Electronics,1135.68,5,2026-06-02,Delhi,Credit Card
+1782,5319,Electronics,11717.05,2,2026-05-08,Pune,Credit Card
+1783,5996,Electronics,14695.47,1,2026-05-15,Pune,UPI
+1784,5845,Home & Kitchen,43322.05,3,2026-04-07,Bangalore,Credit Card
+1785,5518,Electronics,43095.65,4,2026-04-12,Delhi,Credit Card
+1786,5142,Electronics,2991.01,4,2026-04-19,Chennai,Cash on Delivery
+1787,5127,Home & Kitchen,34632.48,4,2026-05-21,Delhi,Credit Card
+1788,5490,Fashion,23897.81,2,2026-06-08,Hyderabad,Credit Card
+1789,5859,Fashion,32430.0,4,2026-06-05,Pune,Credit Card
+1790,5422,Home & Kitchen,48780.77,3,2026-03-18,Delhi,UPI
+1791,5495,Electronics,21123.54,5,2026-03-18,Hyderabad,UPI
+1792,5410,Beauty & Personal Care,36028.0,2,2026-03-29,Delhi,UPI
+1793,5192,Fashion,36741.33,5,2026-05-13,Delhi,Credit Card
+1794,5839,Electronics,1601.9,4,2026-04-04,Mumbai,UPI
+1795,5609,Beauty & Personal Care,8263.67,3,2026-04-24,Chennai,Credit Card
+1796,5471,Beauty & Personal Care,10120.56,3,2026-03-17,Bangalore,Cash on Delivery
+1797,5573,Home & Kitchen,8290.02,2,2026-04-15,Chennai,UPI
+1798,5967,Fashion,22001.99,2,2026-04-03,Chennai,Credit Card
+1799,5077,Electronics,22648.08,3,2026-05-06,Chennai,Cash on Delivery
+1800,5622,Fashion,25360.44,1,2026-03-13,Bangalore,UPI
+1801,5015,Electronics,31001.48,1,2026-04-08,Mumbai,UPI
+1802,5596,Fashion,31368.02,4,2026-04-30,Pune,Cash on Delivery
+1803,5966,Beauty & Personal Care,40368.93,5,2026-04-02,Hyderabad,Debit Card
+1804,5033,Beauty & Personal Care,15972.29,1,2026-06-05,Bangalore,Credit Card
+1805,5727,Beauty & Personal Care,2915.57,1,2026-06-08,Hyderabad,Cash on Delivery
+1806,5336,Home & Kitchen,3762.82,3,2026-04-10,Bangalore,UPI
+1807,5998,Beauty & Personal Care,42090.06,2,2026-04-23,Delhi,Cash on Delivery
+1808,5697,Beauty & Personal Care,39433.19,4,2026-04-18,Mumbai,Credit Card
+1809,5276,Beauty & Personal Care,2138.2,2,2026-05-02,Hyderabad,Debit Card
+1810,5179,Beauty & Personal Care,9853.13,2,2026-04-28,,Debit Card
+1811,5238,Home & Kitchen,5943.7,3,2026-03-21,Pune,UPI
+1812,5876,Home & Kitchen,20533.7,4,2026-04-19,Chennai,Debit Card
+1813,5595,Home & Kitchen,38848.01,5,2026-05-11,Pune,Debit Card
+1814,5764,Home & Kitchen,22716.46,4,2026-05-18,Pune,Debit Card
+1815,5427,Home & Kitchen,11675.87,1,2026-04-04,Hyderabad,Debit Card
+1816,5236,Beauty & Personal Care,26056.75,5,2026-04-15,Mumbai,UPI
+1817,5300,Fashion,16249.15,2,2026-03-23,Mumbai,Cash on Delivery
+1818,5186,Fashion,24886.59,4,2026-04-27,Hyderabad,Credit Card
+1819,5067,Electronics,43798.72,3,2026-05-12,Pune,UPI
+1820,5478,Fashion,49443.37,3,2026-05-13,Mumbai,Cash on Delivery
+1821,5342,Electronics,17582.99,4,2026-05-09,Bangalore,Cash on Delivery
+1822,5571,Fashion,49586.46,5,2026-06-05,Chennai,Credit Card
+1823,5591,Fashion,33943.74,3,2026-05-21,Hyderabad,Debit Card
+1824,5594,Beauty & Personal Care,49435.71,2,2026-04-03,Bangalore,Cash on Delivery
+1825,5441,Home & Kitchen,18619.75,5,2026-05-18,Pune,Cash on Delivery
+1826,5412,Electronics,25688.2,3,2026-04-17,Mumbai,Debit Card
+1827,5131,Home & Kitchen,42991.84,3,2026-03-18,Mumbai,UPI
+1828,5878,Electronics,39757.41,1,2026-06-05,Mumbai,Debit Card
+1829,5463,Home & Kitchen,45451.04,1,2026-04-11,Mumbai,Credit Card
+1830,5061,Fashion,40479.89,2,2026-05-12,Chennai,Cash on Delivery
+1831,5570,Fashion,5573.12,3,2026-06-07,Bangalore,UPI
+1832,5877,Electronics,45935.37,4,2026-06-04,Chennai,Credit Card
+1833,5558,Beauty & Personal Care,10193.23,3,2026-03-17,Hyderabad,Debit Card
+1834,5261,Fashion,49428.11,1,2026-05-22,Chennai,UPI
+1835,5483,Fashion,33080.18,4,2026-03-21,Chennai,Credit Card
+1836,5400,Fashion,6270.33,3,2026-05-27,Mumbai,Credit Card
+1837,5976,Home & Kitchen,49474.6,2,2026-04-05,Delhi,Debit Card
+1838,5131,Home & Kitchen,27618.64,2,2026-03-19,Pune,Debit Card
+1839,5210,Beauty & Personal Care,48572.39,5,2026-03-29,Pune,UPI
+1840,5233,Electronics,26936.42,3,2026-05-18,Delhi,Credit Card
+1841,5758,Home & Kitchen,4658.24,4,2026-04-12,Mumbai,Cash on Delivery
+1842,5263,Fashion,15873.07,4,2026-04-14,Mumbai,Cash on Delivery
+1843,5278,Beauty & Personal Care,14559.64,5,2026-06-05,Pune,Debit Card
+1844,5075,Home & Kitchen,25348.65,1,2026-05-25,Chennai,UPI
+1845,5508,Electronics,44857.91,2,2026-05-16,Pune,Cash on Delivery
+1846,5605,Beauty & Personal Care,6744.14,4,2026-05-18,Pune,Credit Card
+1847,5252,Electronics,35554.47,4,2026-03-21,Pune,Debit Card
+1848,5943,Home & Kitchen,1089.38,4,2026-05-30,Delhi,UPI
+1849,5341,Fashion,31936.59,3,2026-05-20,Mumbai,Debit Card
+1850,5879,Beauty & Personal Care,15262.47,2,2026-05-12,Pune,Cash on Delivery
+1851,5409,Electronics,12718.67,1,2026-06-06,Hyderabad,Credit Card
+1852,5789,Beauty & Personal Care,4752.59,4,2026-03-24,Mumbai,Credit Card
+1853,5149,Fashion,12765.71,3,2026-03-31,Pune,Cash on Delivery
+1854,5397,Fashion,44967.1,2,2026-03-12,Pune,UPI
+1855,5429,Home & Kitchen,32891.59,1,2026-05-21,Pune,Credit Card
+1856,5610,Electronics,31794.53,4,2026-04-11,Pune,Credit Card
+1857,5260,Beauty & Personal Care,15976.12,4,2026-04-15,Mumbai,UPI
+1858,5908,Beauty & Personal Care,21804.9,1,2026-04-16,Mumbai,Debit Card
+1859,5712,Electronics,46618.22,2,2026-04-11,Hyderabad,Debit Card
+1860,5716,Beauty & Personal Care,9984.67,4,2026-05-16,Hyderabad,UPI
+1861,5395,Fashion,30150.87,1,2026-03-31,Pune,Debit Card
+1862,5540,Home & Kitchen,45743.71,1,2026-06-01,Chennai,Cash on Delivery
+1863,5546,Electronics,14155.53,4,2026-03-13,Mumbai,Debit Card
+1864,5626,Fashion,17104.24,5,2026-03-30,Bangalore,Debit Card
+1865,5512,Electronics,21185.48,5,2026-04-11,Chennai,Debit Card
+1866,5103,Fashion,18351.98,3,2026-03-20,Mumbai,UPI
+1867,5748,Electronics,38639.14,4,2026-05-30,Hyderabad,Debit Card
+1868,5044,Beauty & Personal Care,41567.63,1,2026-03-25,Hyderabad,UPI
+1869,5124,Home & Kitchen,29212.32,3,2026-04-13,Mumbai,UPI
+1870,5755,Electronics,22198.43,2,2026-04-09,Bangalore,Cash on Delivery
+1871,5128,Electronics,29953.79,3,2026-06-03,Delhi,UPI
+1872,5102,Home & Kitchen,26245.08,2,2026-04-20,Delhi,Cash on Delivery
+1873,5804,Electronics,47788.01,4,2026-03-14,Pune,Debit Card
+1874,5158,Beauty & Personal Care,33813.42,1,2026-04-29,Chennai,UPI
+1875,5730,Fashion,4260.6,4,2026-03-18,Hyderabad,Debit Card
+1876,5086,Fashion,16245.77,2,2026-04-03,Mumbai,UPI
+1877,5351,Fashion,47508.73,3,2026-04-11,,Credit Card
+1878,5782,Fashion,20875.65,4,2026-05-25,Pune,Cash on Delivery
+1879,5069,Home & Kitchen,30185.92,4,2026-04-16,Bangalore,UPI
+1880,5925,Electronics,4902.48,1,2026-06-01,Mumbai,Credit Card
+1881,5818,Fashion,8512.67,1,2026-05-09,Hyderabad,Credit Card
+1882,5116,Home & Kitchen,9468.01,4,2026-05-09,Pune,UPI
+1883,5587,Fashion,16906.86,1,2026-03-23,Pune,Debit Card
+1884,5504,Electronics,553.05,5,2026-05-11,Chennai,Cash on Delivery
+1885,5622,Beauty & Personal Care,804.46,1,2026-04-11,Chennai,Cash on Delivery
+1886,5603,Electronics,20381.54,5,2026-04-01,Delhi,Cash on Delivery
+1887,5451,Home & Kitchen,24531.65,2,2026-04-12,Chennai,Cash on Delivery
+1888,5732,Home & Kitchen,13534.21,1,2026-03-31,Delhi,UPI
+1889,5482,Fashion,8014.61,3,2026-04-12,Mumbai,UPI
+1890,5424,Fashion,17127.8,5,2026-04-05,,Cash on Delivery
+1891,5742,Electronics,35638.02,3,2026-04-09,Chennai,Cash on Delivery
+1892,5358,Home & Kitchen,13786.72,4,2026-04-15,Mumbai,Credit Card
+1893,5480,Home & Kitchen,11679.07,1,2026-03-12,Pune,Cash on Delivery
+1894,5996,Electronics,16054.67,5,2026-04-20,Mumbai,Cash on Delivery
+1895,5426,Fashion,9501.97,3,2026-03-19,Bangalore,UPI
+1896,5749,Fashion,34845.32,2,2026-04-09,Pune,Cash on Delivery
+1897,5712,Home & Kitchen,1695.75,3,2026-04-06,Hyderabad,UPI
+1898,5311,Electronics,8372.41,4,2026-03-16,Bangalore,Credit Card
+1899,5563,Electronics,37878.07,2,2026-05-18,Mumbai,Debit Card
+1900,5864,Home & Kitchen,44995.71,3,2026-03-27,Chennai,Cash on Delivery
+1901,5685,Beauty & Personal Care,11946.24,5,2026-05-22,Delhi,UPI
+1902,5137,Fashion,46810.5,4,2026-04-09,Chennai,Debit Card
+1903,5517,Electronics,7339.83,1,2026-04-22,Bangalore,Credit Card
+1904,5109,Beauty & Personal Care,23539.73,3,2026-05-21,Hyderabad,UPI
+1905,5587,Electronics,13799.88,2,2026-05-05,Mumbai,Credit Card
+1906,5834,Beauty & Personal Care,44567.38,3,2026-03-22,Delhi,Credit Card
+1907,5087,Home & Kitchen,12810.05,2,2026-06-09,Hyderabad,Debit Card
+1908,5760,Home & Kitchen,13418.51,3,2026-05-14,Hyderabad,UPI
+1909,5452,Home & Kitchen,9847.18,1,2026-04-11,Bangalore,Debit Card
+1910,5178,Electronics,43591.55,5,2026-03-31,Delhi,Credit Card
+1911,5752,Beauty & Personal Care,35305.81,2,2026-03-19,,UPI
+1912,5335,Electronics,42850.62,5,2026-04-01,Pune,UPI
+1913,5658,Fashion,14416.42,3,2026-03-16,Chennai,Debit Card
+1914,5081,Fashion,30227.97,2,2026-06-07,Pune,Credit Card
+1915,5096,Fashion,40317.01,2,2026-04-29,Chennai,UPI
+1916,5352,Electronics,45156.01,1,2026-04-08,Hyderabad,Cash on Delivery
+1917,5324,Fashion,3531.68,2,2026-03-18,,Debit Card
+1918,5793,Electronics,20507.2,4,2026-06-01,Chennai,Cash on Delivery
+1919,5348,Beauty & Personal Care,38729.02,2,2026-05-15,Hyderabad,UPI
+1920,5404,Electronics,22617.12,1,2026-05-03,Chennai,Credit Card
+1921,5547,Fashion,37054.2,2,2026-06-05,Chennai,UPI
+1922,5572,Fashion,22703.01,4,2026-06-08,Pune,Debit Card
+1923,5147,Fashion,28778.56,4,2026-05-12,Chennai,Debit Card
+1924,5722,Home & Kitchen,44761.82,4,2026-04-10,Hyderabad,Cash on Delivery
+1925,5633,Electronics,40027.2,4,2026-05-11,Pune,Credit Card
+1926,5001,Electronics,48831.01,1,2026-03-29,Hyderabad,UPI
+1927,5524,Electronics,45369.51,4,2026-04-24,,Credit Card
+1928,5767,Electronics,32974.42,5,2026-03-28,Mumbai,Credit Card
+1929,5424,Electronics,32165.28,3,2026-05-18,Delhi,Debit Card
+1930,5705,Home & Kitchen,33156.31,5,2026-05-29,,Credit Card
+1931,5112,Fashion,4048.34,1,2026-05-03,Pune,UPI
+1932,5933,Fashion,46168.94,4,2026-05-04,Hyderabad,UPI
+1933,5572,Electronics,32171.53,2,2026-03-26,Hyderabad,Debit Card
+1934,5925,Beauty & Personal Care,3779.85,4,2026-05-16,Hyderabad,Cash on Delivery
+1935,5165,Home & Kitchen,37454.56,5,2026-03-26,Hyderabad,Cash on Delivery
+1936,5610,Home & Kitchen,6268.32,3,2026-04-24,Pune,UPI
+1937,5114,Home & Kitchen,11325.51,5,2026-06-09,Pune,UPI
+1938,5636,Fashion,31177.94,4,2026-05-08,Mumbai,UPI
+1939,5151,Beauty & Personal Care,34816.33,2,2026-04-12,Hyderabad,Debit Card
+1940,5132,Electronics,20057.04,5,2026-03-26,Mumbai,UPI
+1941,5321,Home & Kitchen,12248.69,1,2026-04-10,Pune,UPI
+1942,5962,Beauty & Personal Care,46093.84,5,2026-05-29,Mumbai,Debit Card
+1943,5831,Home & Kitchen,32853.26,3,2026-03-23,Delhi,Cash on Delivery
+1944,5316,Fashion,5794.7,3,2026-05-30,Mumbai,Cash on Delivery
+1945,5300,Electronics,35980.35,3,2026-05-14,Pune,Cash on Delivery
+1946,5042,Fashion,48608.84,4,2026-03-28,Pune,Credit Card
+1947,5702,Fashion,9404.21,2,2026-04-07,Pune,Credit Card
+1948,5537,Fashion,44903.64,1,2026-04-17,Pune,UPI
+1949,5102,Electronics,33626.55,2,2026-04-15,Delhi,UPI
+1950,5021,Electronics,20952.13,3,2026-04-16,Mumbai,Cash on Delivery
+1951,5512,Home & Kitchen,44520.77,2,2026-05-22,Hyderabad,UPI
+1952,5722,Home & Kitchen,11132.33,5,2026-05-02,Hyderabad,Credit Card
+1953,5076,Fashion,2070.4,2,2026-05-03,Pune,UPI
+1954,5835,Beauty & Personal Care,20943.09,5,2026-05-10,Hyderabad,Debit Card
+1955,5310,Fashion,30329.29,1,2026-04-11,Hyderabad,Cash on Delivery
+1956,5808,Home & Kitchen,42410.98,1,2026-06-08,Pune,Cash on Delivery
+1957,5635,Electronics,22788.11,2,2026-05-31,Delhi,Cash on Delivery
+1958,5898,Beauty & Personal Care,28387.35,2,2026-03-24,Delhi,Cash on Delivery
+1959,5598,Home & Kitchen,7716.01,1,2026-04-27,Bangalore,Credit Card
+1960,5642,Beauty & Personal Care,48934.69,2,2026-04-27,Delhi,Credit Card
+1961,5981,Home & Kitchen,5580.04,2,2026-05-01,Hyderabad,Cash on Delivery
+1962,5893,Home & Kitchen,16827.04,2,2026-04-30,Hyderabad,UPI
+1963,5271,Beauty & Personal Care,21280.41,1,2026-04-21,Pune,Debit Card
+1964,5553,Electronics,388.75,5,2026-03-17,Bangalore,Cash on Delivery
+1965,5682,Fashion,27443.02,3,2026-04-22,Hyderabad,UPI
+1966,5683,Electronics,25779.45,4,2026-04-11,Bangalore,Cash on Delivery
+1967,5521,Home & Kitchen,27413.71,2,2026-06-01,Bangalore,Cash on Delivery
+1968,5622,Fashion,26660.68,2,2026-04-14,Bangalore,Cash on Delivery
+1969,5917,Fashion,46320.83,4,2026-03-25,Mumbai,Cash on Delivery
+1970,5417,Home & Kitchen,44263.59,1,2026-04-14,Mumbai,Debit Card
+1971,5480,Beauty & Personal Care,13999.66,4,2026-03-31,Chennai,Debit Card
+1972,5742,Beauty & Personal Care,29692.73,1,2026-05-14,Bangalore,Debit Card
+1973,5214,Home & Kitchen,6807.85,1,2026-04-30,Delhi,Cash on Delivery
+1974,5555,Electronics,34250.89,5,2026-04-21,,Cash on Delivery
+1975,5526,Electronics,45652.63,3,2026-04-14,Pune,Debit Card
+1976,5129,Beauty & Personal Care,3197.2,3,2026-06-08,Delhi,UPI
+1977,5631,Electronics,19127.03,3,2026-04-01,Hyderabad,Credit Card
+1978,5912,Home & Kitchen,39054.87,3,2026-05-07,Pune,Debit Card
+1979,5809,Beauty & Personal Care,43372.42,5,2026-04-13,Bangalore,Debit Card
+1980,5161,Home & Kitchen,43617.76,3,2026-03-21,Chennai,Credit Card
+1981,5382,Beauty & Personal Care,16862.24,5,2026-03-16,Bangalore,Credit Card
+1982,5507,Electronics,397.6,3,2026-03-15,Chennai,Credit Card
+1983,5871,Home & Kitchen,18082.9,3,2026-03-20,Mumbai,Debit Card
+1984,5663,Beauty & Personal Care,15825.88,5,2026-04-22,Bangalore,Credit Card
+1985,5140,Electronics,10190.76,1,2026-03-18,Hyderabad,Credit Card
+1986,5112,Electronics,1259.95,5,2026-05-27,Delhi,Cash on Delivery
+1987,5937,Home & Kitchen,15500.31,1,2026-05-05,Pune,UPI
+1988,5413,Fashion,43138.82,2,2026-05-20,Delhi,Cash on Delivery
+1989,5011,Home & Kitchen,9818.3,2,2026-05-18,Chennai,Cash on Delivery
+1990,5678,Home & Kitchen,14239.16,4,2026-05-06,Bangalore,Credit Card
+1991,5208,Fashion,46806.78,4,2026-06-10,Delhi,UPI
+1992,5280,Home & Kitchen,14190.89,1,2026-04-18,Pune,Debit Card
+1993,5728,Electronics,38259.71,1,2026-06-05,Hyderabad,Cash on Delivery
+1994,5694,Electronics,40887.38,3,2026-05-29,Pune,Credit Card
+1995,5818,Fashion,27678.58,3,2026-04-01,Bangalore,Debit Card
+1996,5423,Home & Kitchen,26272.73,2,2026-05-13,Mumbai,Credit Card
+1997,5270,Fashion,24630.98,1,2026-04-08,Bangalore,Cash on Delivery
+1998,5017,Fashion,34496.3,4,2026-03-30,Hyderabad,Credit Card
+1999,5506,Electronics,8333.47,4,2026-04-21,Delhi,Debit Card
+2000,5281,Fashion,15586.03,3,2026-03-29,Mumbai,Cash on Delivery
+1357,5450,Beauty & Personal Care,32768.96,4,2026-03-20,,Credit Card
+1001,5659,Beauty & Personal Care,19924.67,2,2026-04-06,,Cash on Delivery
+1839,5210,Beauty & Personal Care,48572.39,5,2026-03-29,Pune,UPI
+1467,5271,Fashion,23488.19,3,2026-05-20,Bangalore,Debit Card
+1922,5572,Fashion,22703.01,4,2026-06-08,Pune,Debit Card
